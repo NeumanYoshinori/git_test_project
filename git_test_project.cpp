@@ -8,6 +8,8 @@ int main()
     std::cout << "Hello World!\n";
     std::cout << "baakabaaka\n";
     std::cout << "aa!?\n";
+
+    std::cout << "プレイヤーのほにゃららをアレした";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー

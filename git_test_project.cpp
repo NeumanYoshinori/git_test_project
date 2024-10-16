@@ -9,8 +9,8 @@ int main()
     std::cout << "baakabaaka\n";
     std::cout << "aa!?\n";
 
-    std::cout << "プレイヤーのほにゃららをアレした\n";
-    std::cout << "anatabakaa?";
+    std::cout << "プレイヤーのほにゃららをアレした";
+    std::cout << "arehausoda";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー

@@ -8,10 +8,12 @@ int main()
     std::cout << "Hello World!\n";
     std::cout << "baakabaaka\n";
     std::cout << "aa!?\n";
-
     std::cout << "プレイヤーのほにゃららをアレした";
     std::cout << "arehausoda";
     std::cout << "zehahahahahaha";
+    std::cout << "naniyattendaomae-!\n";
+    std::cout << "End Of The World!";
+    std::cout << "Hello heaven!";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー

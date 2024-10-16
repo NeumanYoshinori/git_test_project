@@ -11,6 +11,7 @@ int main()
 
     std::cout << "プレイヤーのほにゃららをアレした";
     std::cout << "arehausoda";
+    std::cout << "zehahahahahaha";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー

@@ -12,7 +12,7 @@ int main()
     std::cout << "プレイヤーのほにゃららをアレした\n";
     std::cout << "naniyattendaomae-!\n";
     std::cout << "End Of The World!";
-    std::cout << "naniittenda";
+    std::cout << "Hello heaven!";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー

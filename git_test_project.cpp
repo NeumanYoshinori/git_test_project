@@ -13,7 +13,7 @@ int main()
     std::cout << "arehausoda";
     std::cout << "zehahahahahaha";
     std::cout << "dakarananishitenda";
-    std::cout << "yameteyo";
+    std::cout << "yameteyone";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー

@@ -10,7 +10,8 @@ int main()
     std::cout << "aa!?\n";
 
     std::cout << "プレイヤーのほにゃららをアレした\n";
-    std::cout << "naniyattendaomae-!";
+    std::cout << "naniyattendaomae-!\n";
+    std::cout << "End Of The World!";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー

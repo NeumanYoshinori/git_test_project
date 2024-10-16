@@ -14,6 +14,8 @@ int main()
     std::cout << "zehahahahahaha";
     std::cout << "dakarananishitenda";
     std::cout << "yameteyone";
+    std::cout << "nanisitenndabaka";
+    std::cout << "eheehe";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー

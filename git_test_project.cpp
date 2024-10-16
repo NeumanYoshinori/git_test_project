@@ -13,6 +13,7 @@ int main()
     std::cout << "naniyattendaomae-!\n";
     std::cout << "End Of The World!";
     std::cout << "Hello heaven!";
+    std::cout << "nanimosuruna";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
